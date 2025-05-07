@@ -53,7 +53,7 @@ class TwoStringsResult {
         return "NO";
 
 
-
+         //Some cases not working
         //    HashSet<Character> concate = new HashSet<>();
 
         //    for(char ch : s1.toCharArray()){
@@ -70,6 +70,7 @@ class TwoStringsResult {
 
         //    return "NO";
 
+            // TLE is coming
         // for(char ch : s1.toCharArray()){
         //     if(s2.indexOf(ch) != -1){
         //         return "YES";
